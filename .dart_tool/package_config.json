@@ -86,6 +86,18 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "dio",
+      "rootUri": "file:///C:/Users/Jetto/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.8.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "dio_web_adapter",
+      "rootUri": "file:///C:/Users/Jetto/AppData/Local/Pub/Cache/hosted/pub.dev/dio_web_adapter-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "equatable",
       "rootUri": "file:///C:/Users/Jetto/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
@@ -668,7 +680,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-30T03:20:25.540664Z",
+  "generated": "2025-04-30T03:29:30.496267Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///D:/fluttersdk/flutter",
